@@ -1,1 +1,5 @@
-
+dependencies:
+  - python=3
+  -pip:
+   -alabaster
+   -anaconda-
